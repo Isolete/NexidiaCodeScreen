@@ -1,0 +1,9 @@
+C:\NexidiaCodeScreen\NexidiaCodeScreen.Test\NexidiaCodeScreen.Test\bin\Debug\NexidiaCodeScreen.Test.dll
+C:\NexidiaCodeScreen\NexidiaCodeScreen.Test\NexidiaCodeScreen.Test\bin\Debug\NexidiaCodeScreen.Test.pdb
+C:\NexidiaCodeScreen\NexidiaCodeScreen.Test\NexidiaCodeScreen.Test\bin\Debug\NexidiaCodeScreen.exe
+C:\NexidiaCodeScreen\NexidiaCodeScreen.Test\NexidiaCodeScreen.Test\bin\Debug\nunit.framework.dll
+C:\NexidiaCodeScreen\NexidiaCodeScreen.Test\NexidiaCodeScreen.Test\bin\Debug\NexidiaCodeScreen.pdb
+C:\NexidiaCodeScreen\NexidiaCodeScreen.Test\NexidiaCodeScreen.Test\bin\Debug\nunit.framework.xml
+C:\NexidiaCodeScreen\NexidiaCodeScreen.Test\NexidiaCodeScreen.Test\obj\Debug\NexidiaCodeScreen.Test.csprojResolveAssemblyReference.cache
+C:\NexidiaCodeScreen\NexidiaCodeScreen.Test\NexidiaCodeScreen.Test\obj\Debug\NexidiaCodeScreen.Test.dll
+C:\NexidiaCodeScreen\NexidiaCodeScreen.Test\NexidiaCodeScreen.Test\obj\Debug\NexidiaCodeScreen.Test.pdb
